@@ -215,5 +215,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Author
 
-**Subrahmanyeswar**
-GitHub: [@Subrahmanyeswar](https://github.com/Subrahmanyeswar)
+**Subrahmanyeswar Kolluru**
+
+- 🐙 GitHub: [@Subrahmanyeswar](https://github.com/Subrahmanyeswar)
+- 🤗 HuggingFace: [huggingface.co/Subrahmanyeswar](https://huggingface.co/Subrahmanyeswar)
+- 💼 LinkedIn: [linkedin.com/in/subrahmanyeswar-kolluru-914694293](https://linkedin.com/in/subrahmanyeswar-kolluru-914694293)
