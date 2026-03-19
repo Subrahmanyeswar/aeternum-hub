@@ -1,0 +1,33 @@
+# Core Dependencies
+torch==2.1.0
+torchvision==0.16.0
+ultralytics==8.1.0
+opencv-python==4.8.1.78
+numpy==1.26.4
+pillow==10.2.0
+
+# Face Recognition
+insightface==0.7.3
+onnxruntime-gpu==1.16.3
+
+# LLM
+transformers==4.36.2
+accelerate==0.25.0
+einops==0.7.0
+timm==0.9.12
+
+# API & WebSocket
+fastapi==0.108.0
+uvicorn[standard]==0.25.0
+python-multipart==0.0.6
+websockets==12.0
+redis==5.0.1
+
+# Notifications
+twilio==8.11.1
+requests==2.31.0
+
+# Utilities
+psutil==5.9.7
+pydantic==2.5.3
+python-dotenv==1.0.0

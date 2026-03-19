@@ -1,0 +1,78 @@
+# Environment variables — NEVER commit
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+**/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+ENV/
+*.egg-info/
+dist/
+build/
+.Python
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.next/
+npm-debug.log*
+yarn-error.log*
+
+# Logs and temp files
+*.log
+logs/
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Large data files
+storage/*.json
+storage/*.db
+*.sqlite
+*.sqlite3
+data/
+
+# Large model files
+*.pt
+*.pth
+*.onnx
+*.bin
+*.pkl
+*.h5
+*.weights
+models/
+weights/
+
+# Reports and generated files
+reports/*.pdf
+
+# Credentials and keys
+*.pem
+*.key
+*.cert
+*.p12
+
+# OS
+desktop.ini
+
+# Troubleshooting artifacts
+push_error.txt
+push_output.txt
+push_output_final.txt
